@@ -1,1 +1,1 @@
-Sitemap: https://branbeckett.github.io/fastpages-template/sitemap.xml
+Sitemap: https://www.branbeckett.com/blog/sitemap.xml
